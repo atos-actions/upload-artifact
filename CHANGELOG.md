@@ -1,3 +1,13 @@
+## [2.2.0](https://github.com/atos-actions/upload-artifact/compare/v2.1.1...v2.2.0) (2026-03-03)
+
+### Features
+
+* **deps:** bump the actions-artifacts group with 2 updates ([#269](https://github.com/atos-actions/upload-artifact/issues/269)) ([26be574](https://github.com/atos-actions/upload-artifact/commit/26be5747b1cfef492564af0e572b85b48ee48580))
+
+### Dependencies and Other Build Updates
+
+* **release:** correct releaseRules structure in .releaserc ([5805839](https://github.com/atos-actions/upload-artifact/commit/5805839ecc14fe25097a0e22d19839a25120cd0a))
+
 ## [2.1.1](https://github.com/atos-actions/upload-artifact/compare/v2.1.0...v2.1.1) (2025-12-16)
 
 ### Dependencies and Other Build Updates
