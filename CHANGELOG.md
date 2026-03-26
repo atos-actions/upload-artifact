@@ -1,3 +1,12 @@
+## [2.2.1](https://github.com/atos-actions/upload-artifact/compare/v2.2.0...v2.2.1) (2026-03-26)
+
+### Dependencies and Other Build Updates
+
+* **deps-dev:** bump the commitlint group with 2 updates ([#270](https://github.com/atos-actions/upload-artifact/issues/270)) ([6aa19cb](https://github.com/atos-actions/upload-artifact/commit/6aa19cbf63dc23e0e5cb42919736ed33c199313d))
+* **deps-dev:** bump the commitlint group with 2 updates ([#271](https://github.com/atos-actions/upload-artifact/issues/271)) ([22c4c94](https://github.com/atos-actions/upload-artifact/commit/22c4c94322545dc7b3362fc9e2ca8c31f0dc1082))
+* **deps-dev:** bump the commitlint group with 2 updates ([#272](https://github.com/atos-actions/upload-artifact/issues/272)) ([c29d794](https://github.com/atos-actions/upload-artifact/commit/c29d79497588afe4810db0d6700c6df1ea265df8))
+* **deps:** bump picomatch ([#273](https://github.com/atos-actions/upload-artifact/issues/273)) ([2ed1381](https://github.com/atos-actions/upload-artifact/commit/2ed1381578ded6d62f5195b944de03cd827130e8))
+
 ## [2.2.0](https://github.com/atos-actions/upload-artifact/compare/v2.1.1...v2.2.0) (2026-03-03)
 
 ### Features
