@@ -1,3 +1,9 @@
+## [2.2.2](https://github.com/atos-actions/upload-artifact/compare/v2.2.1...v2.2.2) (2026-03-27)
+
+### Dependencies and Other Build Updates
+
+* **deps:** bump handlebars from 4.7.8 to 4.7.9 ([#274](https://github.com/atos-actions/upload-artifact/issues/274)) ([9c3e480](https://github.com/atos-actions/upload-artifact/commit/9c3e480d4d262a698c1b02b4bd09294408f01727))
+
 ## [2.2.1](https://github.com/atos-actions/upload-artifact/compare/v2.2.0...v2.2.1) (2026-03-26)
 
 ### Dependencies and Other Build Updates
