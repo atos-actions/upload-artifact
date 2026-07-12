@@ -1,3 +1,16 @@
+## [2.2.8](https://github.com/atos-actions/upload-artifact/compare/v2.2.7...v2.2.8) (2026-07-12)
+
+### Dependencies and Other Build Updates
+
+* **deps-dev:** bump @commitlint/cli from 21.2.0 to 21.2.1 in the commitlint group ([#294](https://github.com/atos-actions/upload-artifact/issues/294)) ([094262c](https://github.com/atos-actions/upload-artifact/commit/094262c3d50e49c9692ed5dffc4b37d0a02628d8))
+* **deps-dev:** bump prettier from 3.8.4 to 3.9.1 ([#290](https://github.com/atos-actions/upload-artifact/issues/290)) ([0a0b18d](https://github.com/atos-actions/upload-artifact/commit/0a0b18d2d3fe3ef50b956e190cc4db2457cd9853))
+* **deps-dev:** bump prettier from 3.9.1 to 3.9.3 ([#291](https://github.com/atos-actions/upload-artifact/issues/291)) ([b27c825](https://github.com/atos-actions/upload-artifact/commit/b27c825cb073aa270cbb9e8d336cf601347fa234))
+* **deps-dev:** bump prettier from 3.9.3 to 3.9.4 ([#293](https://github.com/atos-actions/upload-artifact/issues/293)) ([13de728](https://github.com/atos-actions/upload-artifact/commit/13de7289e22fbc40b31feb843699cd620959d5b6))
+* **deps-dev:** bump prettier from 3.9.4 to 3.9.5 ([#295](https://github.com/atos-actions/upload-artifact/issues/295)) ([ea8420a](https://github.com/atos-actions/upload-artifact/commit/ea8420a9c86f51a5be6612bc2565a0d150956cfd))
+* **deps-dev:** bump the commitlint group with 2 updates ([#289](https://github.com/atos-actions/upload-artifact/issues/289)) ([d85623e](https://github.com/atos-actions/upload-artifact/commit/d85623e4d888e9047132f51d48a2e90d292c65d0))
+* **deps-dev:** bump the commitlint group with 2 updates ([#292](https://github.com/atos-actions/upload-artifact/issues/292)) ([df79bac](https://github.com/atos-actions/upload-artifact/commit/df79bac335d56a071fb57d3ece3763c21714a2a8))
+* **deps:** bump semantic-release from 25.0.5 to 25.0.6 ([#296](https://github.com/atos-actions/upload-artifact/issues/296)) ([7341d1c](https://github.com/atos-actions/upload-artifact/commit/7341d1c4c179b21ba5398d6f64cde2d30abc5930))
+
 ## [2.2.7](https://github.com/atos-actions/upload-artifact/compare/v2.2.6...v2.2.7) (2026-06-19)
 
 ### Dependencies and Other Build Updates
