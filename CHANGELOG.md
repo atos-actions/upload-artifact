@@ -1,3 +1,9 @@
+## [2.2.10](https://github.com/atos-actions/upload-artifact/compare/v2.2.9...v2.2.10) (2026-07-19)
+
+### Dependencies and Other Build Updates
+
+* **deps:** bump semantic-release from 25.0.7 to 25.0.8 ([#299](https://github.com/atos-actions/upload-artifact/issues/299)) ([9094a97](https://github.com/atos-actions/upload-artifact/commit/9094a97e506db581107ae185eb8ea97bdf05ad01))
+
 ## [2.2.9](https://github.com/atos-actions/upload-artifact/compare/v2.2.8...v2.2.9) (2026-07-13)
 
 ### Dependencies and Other Build Updates
