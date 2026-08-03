@@ -1,3 +1,11 @@
+## [2.2.11](https://github.com/atos-actions/upload-artifact/compare/v2.2.10...v2.2.11) (2026-08-03)
+
+### Dependencies and Other Build Updates
+
+* **deps-dev:** bump fast-uri from 3.1.3 to 3.1.4 ([#303](https://github.com/atos-actions/upload-artifact/issues/303)) ([f18ae69](https://github.com/atos-actions/upload-artifact/commit/f18ae696f1afd00a3e3f996c904fb44c90dc43c5))
+* **deps-dev:** bump prettier from 3.9.5 to 3.9.6 ([#302](https://github.com/atos-actions/upload-artifact/issues/302)) ([a5c6a7a](https://github.com/atos-actions/upload-artifact/commit/a5c6a7ac305c5677c0b9c123cd223a86def87497))
+* **deps:** bump actions/setup-node from 6 to 7 ([#298](https://github.com/atos-actions/upload-artifact/issues/298)) ([5dd25c2](https://github.com/atos-actions/upload-artifact/commit/5dd25c2c2a970726f8ba91cc188ab566657e66b5))
+
 ## [2.2.10](https://github.com/atos-actions/upload-artifact/compare/v2.2.9...v2.2.10) (2026-07-19)
 
 ### Dependencies and Other Build Updates
