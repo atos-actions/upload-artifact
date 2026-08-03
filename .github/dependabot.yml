@@ -15,6 +15,10 @@ updates:
       commitlint:
         patterns:
           - '@commitlint/*'
+      semantic-release:
+        patterns:
+          - 'semantic-release'
+          - '@semantic-release/*'
 
   - package-ecosystem: 'github-actions'
     directory: '/'
