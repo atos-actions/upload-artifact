@@ -1,3 +1,10 @@
+## [2.2.13](https://github.com/atos-actions/upload-artifact/compare/v2.2.12...v2.2.13) (2026-08-07)
+
+### Dependencies and Other Build Updates
+
+* **deps-dev:** bump the semantic-release group across 1 directory with 2 updates ([#306](https://github.com/atos-actions/upload-artifact/issues/306)) ([d2e31a0](https://github.com/atos-actions/upload-artifact/commit/d2e31a00c4d765a3858a034038500e85e9a99b6b))
+* **deps:** bump the atos-actions group across 1 directory with 3 updates ([#307](https://github.com/atos-actions/upload-artifact/issues/307)) ([fd5c33a](https://github.com/atos-actions/upload-artifact/commit/fd5c33aa15ffaf39eaacfbc46fb5dd597ea26d4c))
+
 ## [2.2.12](https://github.com/atos-actions/upload-artifact/compare/v2.2.11...v2.2.12) (2026-08-03)
 
 ### Dependencies and Other Build Updates
