@@ -1,3 +1,10 @@
+## [2.2.14](https://github.com/atos-actions/upload-artifact/compare/v2.2.13...v2.2.14) (2026-08-07)
+
+### Dependencies and Other Build Updates
+
+* **deps-dev:** bump fast-uri from 3.1.4 to 3.1.5 ([#308](https://github.com/atos-actions/upload-artifact/issues/308)) ([915836c](https://github.com/atos-actions/upload-artifact/commit/915836c98cf5bc2524abeaf76eef1146d9183a69))
+* **deps:** bump js-yaml from 4.2.0 to 4.3.1 ([#309](https://github.com/atos-actions/upload-artifact/issues/309)) ([38e69e0](https://github.com/atos-actions/upload-artifact/commit/38e69e002a1ecc2b328a00365ccd4dad6b14eb88))
+
 ## [2.2.13](https://github.com/atos-actions/upload-artifact/compare/v2.2.12...v2.2.13) (2026-08-07)
 
 ### Dependencies and Other Build Updates
