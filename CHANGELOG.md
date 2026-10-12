@@ -1,3 +1,12 @@
+## [2.2.21](https://github.com/atos-actions/upload-artifact/compare/v2.2.20...v2.2.21) (2026-10-12)
+
+### Dependencies and Other Build Updates
+
+* **deps-dev:** bump prettier from 3.9.6 to 3.9.8 ([#318](https://github.com/atos-actions/upload-artifact/issues/318)) ([88b051e](https://github.com/atos-actions/upload-artifact/commit/88b051e1798016bed89182b2c39984ccd85976e6))
+* **deps-dev:** bump prettier from 3.9.8 to 3.9.9 ([#320](https://github.com/atos-actions/upload-artifact/issues/320)) ([811220e](https://github.com/atos-actions/upload-artifact/commit/811220e794c683eb32ce6c8c4195e9f96235bdc0))
+* **deps-dev:** bump the commitlint group with 2 updates ([#319](https://github.com/atos-actions/upload-artifact/issues/319)) ([61eab4c](https://github.com/atos-actions/upload-artifact/commit/61eab4c9f328439c0a0e878309a3fb0b276c6bd9))
+* **deps:** bump handlebars from 4.7.9 to 4.7.10 ([#321](https://github.com/atos-actions/upload-artifact/issues/321)) ([7267bc0](https://github.com/atos-actions/upload-artifact/commit/7267bc0229ba22258b2e62553be0c0fe4734cbec))
+
 ## [2.2.20](https://github.com/atos-actions/upload-artifact/compare/v2.2.19...v2.2.20) (2026-09-17)
 
 ### Dependencies and Other Build Updates
