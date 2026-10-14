@@ -1,3 +1,9 @@
+## [2.2.22](https://github.com/atos-actions/upload-artifact/compare/v2.2.21...v2.2.22) (2026-10-14)
+
+### Dependencies and Other Build Updates
+
+* **deps:** bump the atos-actions group with 3 updates ([#322](https://github.com/atos-actions/upload-artifact/issues/322)) ([5fd7a7f](https://github.com/atos-actions/upload-artifact/commit/5fd7a7ff0b8313f56fef083f9b527561bd490ba9))
+
 ## [2.2.21](https://github.com/atos-actions/upload-artifact/compare/v2.2.20...v2.2.21) (2026-10-12)
 
 ### Dependencies and Other Build Updates
