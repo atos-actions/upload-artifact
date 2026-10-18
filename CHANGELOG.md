@@ -1,3 +1,10 @@
+## [2.2.23](https://github.com/atos-actions/upload-artifact/compare/v2.2.22...v2.2.23) (2026-10-18)
+
+### Dependencies and Other Build Updates
+
+* **deps-dev:** bump prettier from 3.9.9 to 3.9.10 ([#323](https://github.com/atos-actions/upload-artifact/issues/323)) ([1a6ad8d](https://github.com/atos-actions/upload-artifact/commit/1a6ad8dd4ae626c56359fb48f76e8c258bccb863))
+* **deps:** bump the atos-actions group with 3 updates ([#324](https://github.com/atos-actions/upload-artifact/issues/324)) ([e8cbe22](https://github.com/atos-actions/upload-artifact/commit/e8cbe2206601c5ec3f5627feaf9de5ea8908f736))
+
 ## [2.2.22](https://github.com/atos-actions/upload-artifact/compare/v2.2.21...v2.2.22) (2026-10-14)
 
 ### Dependencies and Other Build Updates
