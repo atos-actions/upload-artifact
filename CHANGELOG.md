@@ -1,3 +1,11 @@
+## [2.2.24](https://github.com/atos-actions/upload-artifact/compare/v2.2.23...v2.2.24) (2026-11-19)
+
+### Dependencies and Other Build Updates
+
+* **deps-dev:** bump fast-uri from 3.1.8 to 3.1.9 ([#326](https://github.com/atos-actions/upload-artifact/issues/326)) ([7cf0550](https://github.com/atos-actions/upload-artifact/commit/7cf0550548a891d3e18325ac2b6d2dd6c0f621e7))
+* **deps-dev:** bump the commitlint group with 2 updates ([#325](https://github.com/atos-actions/upload-artifact/issues/325)) ([cbce677](https://github.com/atos-actions/upload-artifact/commit/cbce6773a810ca4972ddf1d6f72e163c59bd57bf))
+* **deps:** bump the atos-actions group with 3 updates ([#328](https://github.com/atos-actions/upload-artifact/issues/328)) ([15ef4e5](https://github.com/atos-actions/upload-artifact/commit/15ef4e598b99d17f4a977ac3c63a66b8fca31540))
+
 ## [2.2.23](https://github.com/atos-actions/upload-artifact/compare/v2.2.22...v2.2.23) (2026-10-18)
 
 ### Dependencies and Other Build Updates
